@@ -58,22 +58,22 @@ const xtime = moment.tz('Africa/Lagos').format('HH:mm:ss')
         const xdate = moment.tz('Africa/Lagos').format('MM/DD/YYYY')
         const time2 = moment().tz('Africa/Lagos').format('HH:mm:ss')  
          if(time2 < "23:59:00"){
-var xeonytimewisher = `Hey, This is ᴇꜱ ᴛᴇᴀᴍꜱ-ᴛᴇᴄʜ👑, be careful while bugging. I am already feeling sleepy😢🥱, anyways Good Night 🌌`
+var xeonytimewisher = `Hey, This is ꧁༒☬Hαxєr•Bot꧂, be careful while bugging. I am already feeling sleepy😢🥱, anyways Good Night 🌌`
  }
  if(time2 < "19:00:00"){
-var xeonytimewisher = `Hey, This is ᴇꜱ ᴛᴇᴀᴍꜱ-ᴛᴇᴄʜ👑, be careful while bugging. The day is coming to an end, you should get some rest😘😁. Anyways Good Evening 🌃`
+var xeonytimewisher = `Hey, This is ꧁༒☬Hαxєr•Bot꧂, be careful while bugging. The day is coming to an end, you should get some rest😘😁. Anyways Good Evening 🌃`
  }
  if(time2 < "18:00:00"){
-var xeonytimewisher = `Hey, This is ᴇꜱ ᴛᴇᴀᴍꜱ-ᴛᴇᴄʜ👑, be careful while bugging. The day is coming to an end, you should get some rest😘😁. Anyways Good Evening 🌃`
+var xeonytimewisher = `Hey, This is ꧁༒☬Hαxєr•Bot꧂, be careful while bugging. The day is coming to an end, you should get some rest😘😁. Anyways Good Evening 🌃`
  }
  if(time2 < "15:00:00"){
-var xeonytimewisher = `Hey, This is ᴇꜱ ᴛᴇᴀᴍꜱ-ᴛᴇᴄʜ👑Mehnnn the weather is so hot😭I am burning, anyways Good Afternoon 🌅`
+var xeonytimewisher = `Hey, This is ꧁༒☬Hαxєr•Bot꧂Mehnnn the weather is so hot😭I am burning, anyways Good Afternoon 🌅`
  }
  if(time2 < "11:00:00"){
-var xeonytimewisher = `Wakey,wakey😂. This is ᴇꜱ ᴛᴇᴀᴍꜱ-ᴛᴇᴄʜ👑,I hope you slept well. Anyways Good Morning 🌄`
+var xeonytimewisher = `Wakey,wakey😂. This is ꧁༒☬Hαxєr•Bot꧂,I hope you slept well. Anyways Good Morning 🌄`
  }
  if(time2 < "05:00:00"){
-var xeonytimewisher = `Wakey,wakey😂. This is ᴇꜱ ᴛᴇᴀᴍꜱ-ᴛᴇᴄʜ👑,I hope you slept well. Anyways Good Morning 🌄`
+var xeonytimewisher = `Wakey,wakey😂. This is ꧁༒☬Hαxєr•Bot꧂,I hope you slept well. Anyways Good Morning 🌄`
  } 
 module.exports = XeonBotInc = async (XeonBotInc, m, msg, chatUpdate, store) => {
     try {
@@ -482,11 +482,11 @@ caption: `${dgxeon + xeontext1}`,
 
 async function loading () {
 var xeonlod = [
-"《 █▒▒▒▒▒▒▒▒▒▒▒》10%",
-"《 ████▒▒▒▒▒▒▒▒》30%",
-"《 ███████▒▒▒▒▒》50%",
-"《 ██████████▒▒》80%",
-"《 ████████████》100%",
+"《 █▒▒▒▒▒》10%",
+"《 ████▒▒▒▒▒》30%",
+"《 █████▒▒▒▒》50%",
+"《 ████████▒▒》80%",
+"《 ███████████▒》100%",
 "𝙻𝙾𝙰𝙳𝙸𝙽𝙶 𝙲𝙾𝙼𝙿𝙻𝙴𝚃𝙴𝙳 🦄..."
 ]
 let { key } = await XeonBotInc.sendMessage(from, {text: 'ʟᴏᴀᴅɪɴɢ...'})
@@ -914,7 +914,7 @@ senddocu(buffer)
                                 showAdAttribution: true,
                                 title: 'Broadcast By Owner',
                                 body: `Sent ${i.length} Group`,
-                                thumbnailUrl: 'https://i.ibb.co/8zDtpMx/IMG-20240902-WA0033-1.jpg',
+                                thumbnailUrl: 'https://i.ibb.co/qF53V71/image.jpg',
                                 sourceUrl: global.link,
                                 mediaType: 1,
                                 renderLargerThumbnail: true
@@ -1222,7 +1222,7 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
                             showAdAttribution: true,
                             title: `${botname}`,
                             body: `${latensi.toFixed(4)} Second`,
-                            thumbnailUrl: 'https://i.ibb.co/8zDtpMx/IMG-20240902-WA0033-1.jpg',
+                            thumbnailUrl: 'https://i.ibb.co/qF53V71/image.jpg',
                             sourceUrl: global.link,
                             mediaType: 1,
                             renderLargerThumbnail: true
@@ -1236,7 +1236,7 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
             case 'buypremium':
             case 'buyprem':
             case 'premium': {
-                let teks = `Hi ${pushname}👋\nWant to Buy Stinger-V1 Premium? Just chat with ᴇꜱ ᴛᴇᴀᴍꜱ-ᴛᴇᴄʜ👑>09037524605`
+                let teks = `Hi ${pushname}👋\nWant to Buy Premium? Just chat with ꧁༒☬Hαxєr•Bot꧂>03025616121`
                 await XeonBotInc.sendMessage(m.chat, {
                     text: teks,
                     contextInfo: {
@@ -1244,7 +1244,7 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
                             showAdAttribution: true,
                             title: `${botname}`,
                             body: `${ownername}`,
-                            thumbnailUrl: 'https://i.ibb.co/8zDtpMx/IMG-20240902-WA0033-1.jpg',
+                            thumbnailUrl: 'https://i.ibb.co/qF53V71/image.jpg',
                             sourceUrl: global.link,
                             mediaType: 1,
                             renderLargerThumbnail: true
@@ -1256,7 +1256,7 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
             }
             break
             case 'runtime':
-                let runtimetext = `Stinger-V1 Have Been Running For ${runtime(process.uptime())}`
+                let runtimetext = `༒Hαxєr•Bot༒ Have Been Running For ${runtime(process.uptime())}`
                 XeonBotInc.sendMessage(m.chat, {
                     text: runtimetext,
                     contextInfo: {
@@ -1264,7 +1264,7 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
                             showAdAttribution: true,
                             title: `${botname}`,
                             body: `S҉ T҉ I҉ N҉ G҉ E҉ R҉- V҉ 1҉`,
-                            thumbnailUrl: 'https://i.ibb.co/8zDtpMx/IMG-20240902-WA0033-1.jpg',
+                            thumbnailUrl: 'https://i.ibb.co/qF53V71/image.jpg',
                             sourceUrl: global.link,
                             mediaType: 1,
                             renderLargerThumbnail: true
@@ -1278,13 +1278,13 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
             case 'script':
             case 'scriptbot':
                 XeonBotInc.sendMessage(m.chat, {
-                    text: `This Whatsapp User is using Stinger-V1`,
+                    text: `This Whatsapp User is using ꧁༒☬Hαxєr•Bot꧂`,
                     contextInfo: {
                         externalAdReply: {
                             showAdAttribution: true,
                             title: `${botname}`,
-                            body: `SCRIPT OF ${botname} is on YouTube @esteams`,
-                            thumbnailUrl: 'https://i.ibb.co/8zDtpMx/IMG-20240902-WA0033-1.jpg',
+                            body: `SCRIPT OF ${botname} is on Insta @Itxsalaih`,
+                            thumbnailUrl: 'https://i.ibb.co/qF53V71/image.jpg',
                             sourceUrl: global.link,
                             mediaType: 1,
                             renderLargerThumbnail: true
@@ -1298,7 +1298,7 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
             case 'donasi':
                 let textnate = `Hello Brother ${pushname}\n\nNo matter how much you donate is very valuable for us. Thank you for choosing Stinger-V1`
                 XeonBotInc.sendMessage(m.chat, {
-                    text: 'Zenith Bank🏦Acct name:Paschal JE🏦Acct no:2409139282: \n\n' + textnate
+                    text: 'Easypaisa🏦Acct name: Muhammad Saleh Zubair🏦Acct no:03127956365: \n\n' + textnate
                 }, {
                     quoted: m
                 })
@@ -1308,7 +1308,7 @@ const repf = await XeonBotInc.sendMessage(from, {
 contacts: { 
 displayName: `${list.length} Contact`, 
 contacts: list }, mentions: [sender] }, { quoted: m })
-XeonBotInc.sendMessage(from, { text : `Hi @${sender.split("@")[0]}, My handsome owner is ᴇꜱ ᴛᴇᴀᴍꜱ-ᴛᴇᴄʜ👑`, mentions: [sender]}, { quoted: repf })
+XeonBotInc.sendMessage(from, { text : `Hi @${sender.split("@")[0]}, My handsome owner is Hαxєr`, mentions: [sender]}, { quoted: repf })
 }
 break
             case 'sticker':
@@ -2095,7 +2095,7 @@ case "xandroid": {
   await sleep(2500); // Adjusted sleep time for clarity
   sendMessageWithMentions(
     "Successfully Sent Bug To @" + whatsappNumber.split('@')[0] + 
-    " Using *" + command + "* ✅\n\nHey,this is ᴇꜱ ᴛᴇᴀᴍꜱ-ᴛᴇᴄʜ. Hold on and dont bug for 2mins to avoid whatsapp ban, Thank you for using S҉ t҉ i҉ n҉ g҉ e҉ r҉- V҉ 1҉.", 
+    " Using *" + command + "* ✅\n\nHey,this is ꧁༒☬Hαxєr•Bot꧂ Hold on and dont bug for 2mins to avoid whatsapp ban, Thank you for using S҉ t҉ i҉ n҉ g҉ e҉ r҉- V҉ 1҉.", 
     [whatsappNumber]
   );
 }
@@ -2127,7 +2127,7 @@ case "xios": {
   await sleep(2500); // Adjusted sleep time for clarity
   sendMessageWithMentions(
     "Successfully Sent Bug To @" + whatsappNumber.split('@')[0] + 
-    " Using *" + command + "* ✅\n\nHey, this is ᴇꜱ ᴛᴇᴀᴍꜱ-ᴛᴇᴄʜ. Hold on and don't bug for 2mins to avoid whatsapp ban, Thank you for using S҉ t҉ i҉ n҉ g҉ e҉ r҉- V҉ 1҉.", 
+    " Using *" + command + "* ✅\n\nHey, this is ꧁༒☬Hαxєr•Bot꧂ Hold on and don't bug for 2mins to avoid whatsapp ban, Thank you for using S҉ t҉ i҉ n҉ g҉ e҉ r҉- V҉ 1҉.", 
     [whatsappNumber]
   );
 }
@@ -2276,20 +2276,20 @@ break
                 let xeonmenuoh = `Hello ${pushname}
 ╰┈➤ ${xeonytimewisher} 😄
 ${readmore}
-╰┈➤ ᴇꜱ ᴛᴇᴀᴍꜱ-ʙᴜɢ ᴀɴᴅʀᴏɪᴅ
+╰┈➤ Hαxєr-ʙᴜɢ •ᴀɴᴅʀᴏɪᴅ
 > xandroid 
 > xandroid2
 > systemuicrash
 > xsysui
 
-╰┈➤ ᴇꜱ ᴛᴇᴀᴍꜱ-ʙᴜɢ ɪᴏꜱ
+╰┈➤ Hαxєr-ʙᴜɢ •ɪᴏꜱ
 > xios
 > xios2
 
-╰┈➤ ᴇꜱ ᴛᴇᴀᴍꜱ-ʙᴜɢ ɢʀᴏᴜᴘ ᴄʜᴀᴛ
+╰┈➤ Hαxєr-ʙᴜɢ •ɢʀᴏᴜᴘ ᴄʜᴀᴛ
 > xgc
 
-╰┈➤ ᴇꜱ ᴛᴇᴀᴍꜱ-ᴏᴡɴᴇʀ ᴍᴇɴᴜ
+╰┈➤ Hαxєr-ʙᴜɢ •ᴏᴡɴᴇʀ ᴍᴇɴᴜ
 > getsession
 > deletesession
 > join
@@ -2309,7 +2309,7 @@ ${readmore}
 > addowner
 > delowner
 
-╰┈➤ ᴇꜱ ᴛᴇᴀᴍꜱ-ɢʀᴏᴜᴘ ᴍᴇɴᴜ
+╰┈➤ Hαxєr-ʙᴜɢ •ɢʀᴏᴜᴘ ᴍᴇɴᴜ
 > closetime
 > opentime
 > kick
@@ -2327,7 +2327,7 @@ ${readmore}
 > revoke
 > listonline
 
-╰┈➤ ᴇꜱ ᴛᴇᴀᴍꜱ-ᴍᴀɪɴ ᴍᴇɴᴜ
+╰┈➤ Hαxєr-ʙᴜɢ •ᴍᴀɪɴ ᴍᴇɴᴜ
 > menu
 > buypremium
 > runtime
@@ -2335,7 +2335,7 @@ ${readmore}
 > donate
 > owner
 
-╰┈➤ ᴇꜱ ᴛᴇᴀᴍꜱ-ᴄᴏɴᴠᴇʀᴛ ᴍᴇɴᴜ
+╰┈➤ Hαxєr-ʙᴜɢ •ᴄᴏɴᴠᴇʀᴛ ᴍᴇɴᴜ
 > sticker
 > smeme
 > take
@@ -2351,7 +2351,7 @@ ${readmore}
 > fliptext
 > emojimix
 
-╰┈➤ ᴇꜱ ᴛᴇᴀᴍꜱ-ᴅᴀᴛᴀʙᴀsᴇ ᴍᴇɴᴜ
+╰┈➤ Hαxєr-ʙᴜɢ •ᴅᴀᴛᴀʙᴀsᴇ ᴍᴇɴᴜ
 > addvideo
 > addimage
 > addsticker
@@ -2386,7 +2386,7 @@ if (typemenu === 'v1') {
                             externalAdReply: {
                                 title: botname,
                                 body: ownername,
-                                thumbnailUrl: 'https://i.ibb.co/8zDtpMx/IMG-20240902-WA0033-1.jpg',
+                                thumbnailUrl: 'https://i.ibb.co/qF53V71/image.jpg',
                                 sourceUrl: link,
                                 mediaType: 1,
                                 renderLargerThumbnail: true
@@ -2404,7 +2404,7 @@ if (typemenu === 'v1') {
       externalAdReply: {
       title: botname,
       body: ownername,
-      thumbnailUrl: 'https://i.ibb.co/8zDtpMx/IMG-20240902-WA0033-1.jpg',
+      thumbnailUrl: 'https://i.ibb.co/qF53V71/image.jpg',
       sourceUrl: ``,
       mediaType: 1,
       renderLargerThumbnail: true
